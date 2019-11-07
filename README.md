@@ -1,5 +1,6 @@
 # Network-Monitor
 This GUI tool can be used to Monitor / Scan Network.
+Also it can be used for information gathering phase in penetration testing
 
 <p align="center">
 <img src="https://i.ibb.co/vddP1qJ/new-logo4.png">
