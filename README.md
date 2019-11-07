@@ -12,7 +12,7 @@ Basic Introduction :
 
 Usage Information :
 
-	[*] chmod +x NETWORK-MONITOR.exe
+	[*] chmod +x NETWORK-MONITOR.exe [Execute only once !]
 	[*] Run using : ./NETWORK-MONITOR.exe
 	
 Functionalities Provided : 
