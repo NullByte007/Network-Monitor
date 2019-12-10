@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Button1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        gg==
+</value>
+  </data>
+  <data name="RichTextBox1.Text" xml:space="preserve">
+    <value>    	                                            |------------------------------------------------------------------|
+ 	                                            |  HELPER INDEX FOR NETWORK MONITOR |
+ 	                                            |------------------------------------------------------------------|
+ 	   
+	   
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |MODULE ==&gt; PORT SCANNER : This can be used to Scan for any open ports on the system remote/localhost      |
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |MODULE ==&gt; VULNERABILITY SCANNER: This can be used to scan for vulnerabilities in remote/localhost           |
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |MODULE ==&gt; NETWORK SCANNER : This can be used to scan the complete network you are connected to         |
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |MODULE ==&gt; NETWORK TRAFFIC ANALYSIS : This can be used to observe the Network Traffic by port filter       |
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |MODULE ==&gt; SUSPICIOUS ACTIVITY DETECTION : This can be used to detect any unusual activity on network |
+  |----------------------------------------------------------------------------------------------------------------------------------------------------------------|</value>
+  </data>
+</root>
